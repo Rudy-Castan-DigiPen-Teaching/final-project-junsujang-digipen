@@ -41,3 +41,8 @@ https://alexder.itch.io/modern-game-soundtracks-loops - Modern Game Soundtracks 
 https://finalgatestudios.itch.io/music-pack-1 - Free Music Pack Vol. 1(MP_WAV.zip)
 
 
+## Effect sound
+### ohohohoh sound
+Made by Hyunjin
+### Other sound effects
+I made to use sfxr.exe
