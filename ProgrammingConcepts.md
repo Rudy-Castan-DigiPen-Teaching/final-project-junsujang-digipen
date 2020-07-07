@@ -6,25 +6,20 @@ circle means player can direct something. And after you direct, that circle chan
 
 
 code:
-
+{
 
 if (land[i][1] == 1) {
 
-
           push();
-          
           
           stroke(c);
           
-          
           circle(size / 2 + i * size - xmove, height - size * 2, size / 2, size / 2);
-          
           
           pop();
           
-          
         }
-
+}
 
 
 
