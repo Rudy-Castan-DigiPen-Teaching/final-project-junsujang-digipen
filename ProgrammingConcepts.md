@@ -3,12 +3,26 @@
 
 ## 1. Shapes
 circle means player can direct something. And after you direct, that circle changed to something different what mean initiate or fail to give instructions.
+
+
 code:
+
+
 if (land[i][1] == 1) {
+
+
           push();
+          
+          
           stroke(c);
+          
+          
           circle(size / 2 + i * size - xmove, height - size * 2, size / 2, size / 2);
+          
+          
           pop();
+          
+          
         }
 
 
@@ -17,13 +31,29 @@ if (land[i][1] == 1) {
 
 ## 2. Colors
 When the mouse is in a circle, it will change the circle color to indicate clickable.
+
+
 code:
+
+
 var c
+
+
         if (range(i)) {
+        
+        
           c = 255;
+          
+          
         } else {
+        
+        
           c = 0;
+          
+          
         }
+        
+        
 stroke(c);
 
 
@@ -32,15 +62,19 @@ stroke(c);
 
 ## 3. Variables
 It will be used to indicate various states.
+
+and It makes a judgment to next behavior
+
+
 code:
-var worker = 'non'
-function mouseClicked() {
-  for (var i = 0; i < land.length; i++) {
-    if (range(i)) {
-      worker = ‘working’
-    }
-  }
-}
+
+
+var time = 'daytime'
+
+
+var buildingstate = 'non'
+
+
 
 
 ## 4. Conditional Statements
