@@ -19,7 +19,7 @@ Survive and explore the land of the Googly Eyes tribe, which becomes ferocious a
 
 
 ## mechanic:
-
+(https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-junsujang-digipen/blob/master/mechanic.jpg)
 
 
 ## Winning condition: land occupation
