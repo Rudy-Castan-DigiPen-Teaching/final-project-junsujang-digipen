@@ -27,15 +27,14 @@ Survive and explore the land of the Googly Eyes tribe, which becomes ferocious a
 If you occupy more than 50 percent of the land, you win.
 
 
-
-
 ## visual flow: 
+![visual flow](https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-junsujang-digipen/blob/master/visual%20flow.png)
 
-Visually draw out things:
-
+## Visually draw out things:
+![visually draw](https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-junsujang-digipen/blob/master/visually%20draw.jpg)
 
 ## play scene: 
-
+![playscene](https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-junsujang-digipen/blob/master/playscene.jpg)
 A, D to move
 
 
